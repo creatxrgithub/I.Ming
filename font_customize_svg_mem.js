@@ -216,6 +216,9 @@ if(fonts.base!=null) {
 		}
 	}
 
+} else {
+	console.log('base font is not specified.');
+	process.exit(0);
 }
 
 
