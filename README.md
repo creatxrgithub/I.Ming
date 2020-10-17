@@ -1,5 +1,7 @@
 # 字體个性化腳本
 
+請先安裝 nodejs
+
 推薦﹕
 
 I.Ming ( I.明體 / 一点明朝体 / 一點明體 ) https://github.com/ichitenfont/I.Ming
