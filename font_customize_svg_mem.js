@@ -67,7 +67,7 @@ let fonts = {
 			{
 				//fontName: '../fonts/HanaMinA.ttf',
 				fontName: '../fonts/I.MingCREATXR.ttf',
-				chars: '☉'
+				chars: '☉「」『』'
 			},
 
 			{
